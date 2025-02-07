@@ -1,5 +1,5 @@
 ## MY TECH STACK:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,nextjs,tailwind,nestjs,js,ts,react,nodejs,html,css,arduino,git,docker,redhat)]([https://skillicons.dev](https://github.com/thinnakrit))
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,react,nextjs,tailwind,nestjs,kotlin,js,ts,nodejs,html,css,arduino,git,docker,redhat)]([https://skillicons.dev](https://github.com/thinnakrit))
 
 ## EXPERIENCE
 
